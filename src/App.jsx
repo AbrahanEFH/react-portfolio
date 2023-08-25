@@ -1,9 +1,10 @@
+import Navbar from "./components/Navbar";
 
 
 function App () {
     return(
         <div>
-            <h1>React portfolio</h1>
+            <Navbar />
         </div>
     )
 }
