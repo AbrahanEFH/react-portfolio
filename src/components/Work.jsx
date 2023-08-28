@@ -1,6 +1,11 @@
 import React from 'react'
 import Tesla from '../assets/testaLp.png'
 import TicTac from '../assets/tictactoe.png'
+import Agenda from '../assets/agenda.png'
+import Countdown from '../assets/countdown.png'
+import SoundBar from '../assets/soundbar.png'
+import DarkMode from '../assets/darkmode.png'
+
 
 const Work = () => {
   return (
@@ -34,13 +39,13 @@ const Work = () => {
                 </div>
 
                 <div 
-                 style={{backgroundImage: `url(${Tesla})`}}
+                 style={{backgroundImage: `url(${TicTac})`}}
                 className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
 
                     {/* Hover Effects */}
                     <div className='opacity-0 group-hover:opacity-100'>
                         <span className='text-2xl font-bold text-white tracking-wider'>
-                            Clon Tesla Landing Page
+                            Tic Tac Toe Game
                         </span>
                         <div className='pt-8 text-center'>
                             <a href="/">
@@ -54,13 +59,13 @@ const Work = () => {
                 </div>
 
                 <div 
-                 style={{backgroundImage: `url(${Tesla})`}}
+                 style={{backgroundImage: `url(${Agenda})`}}
                 className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
 
                     {/* Hover Effects */}
                     <div className='opacity-0 group-hover:opacity-100'>
                         <span className='text-2xl font-bold text-white tracking-wider'>
-                            Clon Tesla Landing Page
+                            React Agenda
                         </span>
                         <div className='pt-8 text-center'>
                             <a href="/">
@@ -74,13 +79,13 @@ const Work = () => {
                 </div>
 
                 <div 
-                 style={{backgroundImage: `url(${Tesla})`}}
+                 style={{backgroundImage: `url(${Countdown})`}}
                 className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
 
                     {/* Hover Effects */}
                     <div className='opacity-0 group-hover:opacity-100'>
                         <span className='text-2xl font-bold text-white tracking-wider'>
-                            Clon Tesla Landing Page
+                            Countdown
                         </span>
                         <div className='pt-8 text-center'>
                             <a href="/">
@@ -94,13 +99,13 @@ const Work = () => {
                 </div>
 
                 <div 
-                 style={{backgroundImage: `url(${Tesla})`}}
+                 style={{backgroundImage: `url(${SoundBar})`}}
                 className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
 
                     {/* Hover Effects */}
                     <div className='opacity-0 group-hover:opacity-100'>
                         <span className='text-2xl font-bold text-white tracking-wider'>
-                            Clon Tesla Landing Page
+                            Sound Bar
                         </span>
                         <div className='pt-8 text-center'>
                             <a href="/">
@@ -114,13 +119,13 @@ const Work = () => {
                 </div>
 
                 <div 
-                 style={{backgroundImage: `url(${Tesla})`}}
+                 style={{backgroundImage: `url(${DarkMode})`}}
                 className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
 
                     {/* Hover Effects */}
                     <div className='opacity-0 group-hover:opacity-100'>
                         <span className='text-2xl font-bold text-white tracking-wider'>
-                            Clon Tesla Landing Page
+                            Dark Mode
                         </span>
                         <div className='pt-8 text-center'>
                             <a href="/">
