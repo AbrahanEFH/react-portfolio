@@ -28,10 +28,10 @@ const Work = () => {
                             Clon Tesla Landing Page
                         </span>
                         <div className='pt-8 text-center'>
-                            <a href="/">
+                            <a href="https://timely-manatee-e7aae8.netlify.app/" target="_blank">
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Page</button>
                             </a>
-                            <a href="/">
+                            <a href="https://github.com/AbrahanEFH/clon-tesla-landing" target="_blank">
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                             </a>
                         </div>
@@ -48,10 +48,10 @@ const Work = () => {
                             Tic Tac Toe Game
                         </span>
                         <div className='pt-8 text-center'>
-                            <a href="/">
+                            <a href="https://reliable-naiad-cd2527.netlify.app/" target="_blank">
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Page</button>
                             </a>
-                            <a href="/">
+                            <a href="https://github.com/AbrahanEFH/tic-tac-toe" target="_blank">
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                             </a>
                         </div>
@@ -68,10 +68,10 @@ const Work = () => {
                             React Agenda
                         </span>
                         <div className='pt-8 text-center'>
-                            <a href="/">
+                            <a href="https://preeminent-sfogliatella-a92a5d.netlify.app/" target="_blank">
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Page</button>
                             </a>
-                            <a href="/">
+                            <a href="https://github.com/AbrahanEFH/agenda-react" target="_blank">
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                             </a>
                         </div>
@@ -88,10 +88,10 @@ const Work = () => {
                             Countdown
                         </span>
                         <div className='pt-8 text-center'>
-                            <a href="/">
+                            <a href="https://astonishing-alpaca-fcc2e3.netlify.app/" target="_blank">
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Page</button>
                             </a>
-                            <a href="/">
+                            <a href="https://github.com/AbrahanEFH/countdown" target="_blank">
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                             </a>
                         </div>
@@ -108,10 +108,10 @@ const Work = () => {
                             Sound Bar
                         </span>
                         <div className='pt-8 text-center'>
-                            <a href="/">
+                            <a href="https://luminous-gnome-2c124f.netlify.app/" target="_blank">
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Page</button>
                             </a>
-                            <a href="/">
+                            <a href="https://github.com/AbrahanEFH/sound-bar" target="_blank">
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                             </a>
                         </div>
@@ -128,10 +128,10 @@ const Work = () => {
                             Dark Mode
                         </span>
                         <div className='pt-8 text-center'>
-                            <a href="/">
+                            <a href="https://graceful-torte-148d3a.netlify.app/" target="_blank">
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Page</button>
                             </a>
-                            <a href="/">
+                            <a href="https://github.com/AbrahanEFH/Dark-mode" target="_blank">
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                             </a>
                         </div>
