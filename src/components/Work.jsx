@@ -4,7 +4,7 @@ import TicTac from '../assets/tictactoe.png'
 import Agenda from '../assets/agenda.png'
 import Weather from '../assets/weather.png'
 import passWord from '../assets/password.png'
-import DarkMode from '../assets/darkmode.png'
+import QR from '../assets/qr.png'
 
 
 const Work = () => {
@@ -109,13 +109,13 @@ const Work = () => {
                     </div>
 
                     <div
-                        style={{ backgroundImage: `url(${DarkMode})` }}
+                        style={{ backgroundImage: `url(${QR})` }}
                         className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
 
                         {/* Hover Effects */}
                         <div className='opacity-0 group-hover:opacity-100'>
                             <span className='text-2xl font-bold text-white tracking-wider'>
-                                Dark Mode
+                                QR Generator
                             </span>
                             <div className='pt-8 text-center'>
                                 <a href="https://graceful-torte-148d3a.netlify.app/" target="_blank">
